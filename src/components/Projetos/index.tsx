@@ -10,9 +10,9 @@ export function Projetos() {
      <SectionTitle title="Ultimos Projetos"/>
 
     <section>
-        <ProjetosItem />
-        <ProjetosItem />
-        <ProjetosItem />
+        <ProjetosItem img="https://nubank.com.br/images-cms/1668630922-home_bolao_desk.jpg?w=1152&dpr=1&auto=compress&fm=webp" title="Projeto 01" type="website" slug="teste"/>
+        <ProjetosItem img="https://nubank.com.br/images-cms/1668630922-home_bolao_desk.jpg?w=1152&dpr=1&auto=compress&fm=webp" title="Projeto 01" type="website" slug="teste"/>
+        <ProjetosItem img="https://nubank.com.br/images-cms/1668630922-home_bolao_desk.jpg?w=1152&dpr=1&auto=compress&fm=webp" title="Projeto 01" type="website" slug="teste"/>
     </section>
     <button type="button">
       <Link  href="/projetos">
